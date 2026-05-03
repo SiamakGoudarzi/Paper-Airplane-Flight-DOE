@@ -1,0 +1,25 @@
+# R objects and history
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+
+# Performance and Cache
+.Rmarkdown_cache/
+*.Rout
+*.Rlog
+
+# System and Temp files
+.DS_Store
+Thumbs.db
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# LaTeX build files (if applicable)
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
