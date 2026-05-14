@@ -1,4 +1,4 @@
-# Paper Airplane Performance Analysis: Statistical Benchmarking
+# Airplane Performance Analysis: Statistical Benchmarking
 
 ## 🌎 Language / Sprache
 - [English](#english)
